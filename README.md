@@ -39,19 +39,14 @@ Built with **Flutter** and powered by **Firebase** for authentication, real-time
 ## 📱 Screenshots  
 
 ### Onboarding & Authentication  
-![Onboarding UI](./images/onboarding.png)  
-![Sign Up & Sign In](./images/Sign_in.png)  
-![Sign Up & Sign In](./images/Sign_up.png)  
+![Onboarding UI](./images/Authentication.png)  
 
 ### Booking Flow  
-![Services UI](./images/home.png)  
-![Booking Appointment](./images/booking1.png)  
-![Booking Appointment](./images/booking2.png)  
-![Booking Appointment](./images/booking3.png)  
+![Services UI](./images/Booking_flow.png)  
+
 
 ### Admin Panel  
 ![Admin Login](./images/Admin.png)  
-![Appointment Management](./images/booking _list.png)  
 
 
 ---
